@@ -1,3 +1,8 @@
 name:
 add:
+<<<<<<< HEAD
 sex:
+=======
+age:
+gender:
+>>>>>>> Branch2
